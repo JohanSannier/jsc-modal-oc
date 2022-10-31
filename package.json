@@ -3,11 +3,19 @@
   "version": "1.0.0",
   "description": "Modal dialog package created for the 14th project of the OpenClassrooms&#x27; frontend development program",
   "author": "JohanSannier",
+  "keywords": [
+    "react",
+    "components",
+    "dialog",
+    "modal",
+    "ui"
+  ],
   "license": "MIT",
   "repository": "JohanSannier/jsc-modal-oc",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
+  "homepage": "https://github.com/JohanSannier/jsc-modal-oc",
   "engines": {
     "node": ">=10"
   },
