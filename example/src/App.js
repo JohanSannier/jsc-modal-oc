@@ -1,7 +1,6 @@
 import React, { useState } from 'react'
 
 import ModalDialog from 'jsc-modal-oc'
-import 'jsc-modal-oc/dist/index.css'
 
 const App = () => {
   const [openModal, setOpenModal] = useState(false)
